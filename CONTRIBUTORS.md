@@ -5,8 +5,8 @@
 <ol>
 <li>William Rupert Waboke
 
-Name: Ajibade Caleb
-Github username: Zeaforx
-Matric no: U22CS1020
+Name: Rotimi Oluwatobiloba Temilade
+Github username: toby556
+Matric no: U22CS1106
 
 </ol>
