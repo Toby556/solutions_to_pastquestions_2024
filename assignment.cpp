@@ -9,8 +9,6 @@ int main()
     private:
         /* data */
     public:
-        // QuestionClass(/* args */);
-        // ~QuestionClass();
         void question2A()
         {
             int number;
